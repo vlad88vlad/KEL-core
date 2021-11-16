@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="kel-logo-sm.png"/>
+            <TileColor>#4c8476</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
